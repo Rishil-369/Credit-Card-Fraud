@@ -1,5 +1,6 @@
 # Credit Card Fraud Detection – EDA
 
+Dataset - https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
 This repository contains an end-to-end exploratory data analysis (EDA) of a
 credit card transaction dataset with a focus on fraud detection.
 
@@ -19,7 +20,6 @@ identify fraud-related patterns.
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn
 
 ## Outcome
 The cleaned and balanced dataset is suitable for feature engineering and
